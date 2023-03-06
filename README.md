@@ -1,4 +1,5 @@
 # VAGRANT PROJECT
-##RITING AND USING MARKDOWNS.
+## writing using markdowns.  
 * for example 'star' mark down for bullets
 * 'hash' mark for headers
+* trials
